@@ -1,3 +1,6 @@
+# 1402-03-19
+# Hamid Reza Komeylian
+
 def print_board(board):
     for row in board:
         print(' | '.join(row))
