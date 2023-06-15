@@ -10,8 +10,8 @@ def fprint(text='سلام من کمیلیان هستم'):
     return bidi_text
 
 
-print(fprint(), '\n')
+print(fprint())
 
-# print(F'\n')
+print()
 
 print(fprint('سلام من یک فانکشن هستم'))
